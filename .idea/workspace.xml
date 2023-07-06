@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002c0402-5189-46cc-b921-ced7dbeaa6e4" name="Changes" comment="Game ve Player sınıfı güncellendi">
-      <change afterPath="$PROJECT_DIR$/src/Location/BattleLoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Cave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Obstacle/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Obstacle/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Obstacle/Vampire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Obstacle/Zombie.java" afterDir="false" />
+    <list default="true" id="002c0402-5189-46cc-b921-ced7dbeaa6e4" name="Changes" comment="Game sınıfı güncellendi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Location/BattleLoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Location/BattleLoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Location/SafeHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Location/SafeHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obstacle/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obstacle/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obstacle/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obstacle/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obstacle/Vampire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obstacle/Vampire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obstacle/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obstacle/Zombie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1688633672447</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Savaş alanları oluştu">
+      <created>1688641165974</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688641165974</updated>
+    </task>
+    <task id="LOCAL-00012" summary="canavarlar oluştu">
+      <created>1688641181172</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688641181172</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Game sınıfı güncellendi">
+      <created>1688641194076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688641194076</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +190,9 @@
     <MESSAGE value="Envanter sınıfı güncellendi Armor sınıfı oluşturuldu" />
     <MESSAGE value="tool store güncellendi" />
     <MESSAGE value="Game ve Player sınıfı güncellendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Game ve Player sınıfı güncellendi" />
+    <MESSAGE value="Savaş alanları oluştu" />
+    <MESSAGE value="canavarlar oluştu" />
+    <MESSAGE value="Game sınıfı güncellendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game sınıfı güncellendi" />
   </component>
 </project>
