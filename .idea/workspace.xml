@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002c0402-5189-46cc-b921-ced7dbeaa6e4" name="Changes" comment="Character sınıflarını oluşturdum.">
-      <change afterPath="$PROJECT_DIR$/src/Inventory/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Items/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/NormalLoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/SafeHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location/ToolStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player/Player.java" afterDir="false" />
-    </list>
+    <list default="true" id="002c0402-5189-46cc-b921-ced7dbeaa6e4" name="Changes" comment="Game ve Player sınıfı güncellendi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,13 +98,37 @@
       <option name="project" value="LOCAL" />
       <updated>1688227974210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Location Sınıfları">
+      <created>1688627368554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627368554</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inventory ve Weapon Sınıfı">
+      <created>1688627388641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627388641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Game ve Player sınıfı güncellendi">
+      <created>1688627404877</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627404877</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Game ve Main metodu oluşturdum." />
     <MESSAGE value="Player sınıfı oluşturdum." />
     <MESSAGE value="Character sınıflarını oluşturdum." />
-    <option name="LAST_COMMIT_MESSAGE" value="Character sınıflarını oluşturdum." />
+    <MESSAGE value="Location Sınıfları" />
+    <MESSAGE value="Inventory ve Weapon Sınıfı" />
+    <MESSAGE value="Game ve Player sınıfı güncellendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game ve Player sınıfı güncellendi" />
   </component>
 </project>
