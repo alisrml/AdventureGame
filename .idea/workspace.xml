@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002c0402-5189-46cc-b921-ced7dbeaa6e4" name="Changes" comment="Game ve Player sınıfı güncellendi" />
+    <list default="true" id="002c0402-5189-46cc-b921-ced7dbeaa6e4" name="Changes" comment="Game ve Player sınıfı güncellendi">
+      <change afterPath="$PROJECT_DIR$/src/Items/Armor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inventory/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inventory/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Location/ToolStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Location/ToolStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688627404877</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Game ve Player sınıfı güncellendi">
+      <created>1688627453918</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627453918</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
